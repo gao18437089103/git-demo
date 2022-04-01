@@ -11,4 +11,4 @@ hello Git! hello gxz! hello world!
 hello Git! hello gxz! hello world!
 hello Git! hello gxz! hello world!
 hello Git! hello gxz! hello world! master test
-hello Git! hello gxz! hello world!
+hello Git! hello gxz! hello world! hot-fix test
